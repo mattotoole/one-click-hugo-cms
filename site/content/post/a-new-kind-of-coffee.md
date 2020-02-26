@@ -1,0 +1,21 @@
+---
+title: A New Kind of Coffee
+date: 2020-02-26T22:18:15.290Z
+description: >-
+  Farmers in Ethiopia have successfully bred and harvested a new, drought and
+  disease resistant type of coffee bean.
+image: img/about-shade-grown.jpg
+---
+<!--StartFragment-->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio morbi quis commodo odio. Senectus et netus et malesuada. Sem fringilla ut morbi tincidunt augue. Sit amet consectetur adipiscing elit duis. Urna neque viverra justo nec ultrices dui sapien. Netus et malesuada fames ac turpis. Diam quis enim lobortis scelerisque. Dictum at tempor commodo ullamcorper. Amet consectetur adipiscing elit pellentesque habitant morbi. Pretium quam vulputate dignissim suspendisse. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Diam vel quam elementum pulvinar etiam non quam lacus.
+
+Nec nam aliquam sem et tortor consequat id porta. Dui faucibus in ornare quam viverra orci sagittis eu volutpat. Velit egestas dui id ornare arcu odio ut. Eget egestas purus viverra accumsan in nisl nisi scelerisque. Vitae justo eget magna fermentum iaculis eu non diam phasellus. Senectus et netus et malesuada fames ac turpis egestas. Sit amet cursus sit amet dictum. Pellentesque elit eget gravida cum. Purus in mollis nunc sed id semper. Aenean pharetra magna ac placerat vestibulum. Tortor at auctor urna nunc id. Sem nulla pharetra diam sit amet. Suspendisse interdum consectetur libero id. Ut faucibus pulvinar elementum integer enim neque volutpat. Vel pharetra vel turpis nunc eget lorem dolor. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada nunc. Lectus arcu bibendum at varius vel. Felis imperdiet proin fermentum leo vel. Sit amet cursus sit amet dictum sit. Suspendisse potenti nullam ac tortor vitae purus.
+
+Sapien et ligula ullamcorper malesuada proin. At auctor urna nunc id cursus metus aliquam. Sed arcu non odio euismod lacinia at quis. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Vulputate sapien nec sagittis aliquam malesuada. Enim diam vulputate ut pharetra. Pharetra vel turpis nunc eget lorem. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Tellus molestie nunc non blandit massa enim. Senectus et netus et malesuada. Ultricies lacus sed turpis tincidunt id. Dui nunc mattis enim ut tellus. Nam aliquam sem et tortor consequat id porta nibh venenatis. In hendrerit gravida rutrum quisque. Augue lacus viverra vitae congue eu. Nam libero justo laoreet sit amet cursus sit. Amet risus nullam eget felis eget nunc. Id neque aliquam vestibulum morbi blandit cursus risus at. Quis enim lobortis scelerisque fermentum dui faucibus in ornare quam. Bibendum enim facilisis gravida neque convallis a cras semper auctor.
+
+Egestas maecenas pharetra convallis posuere morbi. Eget felis eget nunc lobortis mattis. Facilisi nullam vehicula ipsum a. Cursus mattis molestie a iaculis. Placerat vestibulum lectus mauris ultrices. Egestas diam in arcu cursus euismod quis viverra nibh. Adipiscing vitae proin sagittis nisl rhoncus. In fermentum et sollicitudin ac orci phasellus egestas. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Mauris sit amet massa vitae tortor. Velit euismod in pellentesque massa placerat. Eu tincidunt tortor aliquam nulla.
+
+Luctus accumsan tortor posuere ac ut consequat. Vel pharetra vel turpis nunc eget. Lacus laoreet non curabitur gravida arcu ac. Nam at lectus urna duis convallis. Consectetur libero id faucibus nisl tincidunt eget. In ante metus dictum at tempor. Elit eget gravida cum sociis natoque penatibus et magnis dis. Magna fermentum iaculis eu non diam phasellus vestibulum lorem. Mauris a diam maecenas sed enim ut sem viverra. Blandit volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Accumsan sit amet nulla facilisi morbi tempus iaculis urna id. Dignissim suspendisse in est ante in nibh mauris cursus. Risus sed vulputate odio ut enim blandit volutpat maecenas. Blandit libero volutpat sed cras ornare arcu. Facilisis sed odio morbi quis commodo odio aenean. Dui ut ornare lectus sit amet est. Sed ullamcorper morbi tincidunt ornare massa eget.
+
+<!--EndFragment-->
