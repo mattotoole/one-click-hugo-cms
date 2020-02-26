@@ -1,6 +1,5 @@
 ---
 title: Our Coffee
-type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -97,6 +96,10 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+    - description: A sampler -- a new coffee to try every month
+      items:
+        - A single serving Keurig cup
+      plan: Tiny
+      price: $1
 ---
-
 
